@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a540be7f-b82f-4181-b3a4-9f6528984c14" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/TLC-test/basket.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TLC-test/catalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TLC-test/category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TLC-test/job.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TLC-test/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TLC-test/reviews.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TLC-test/thank.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <execution />
+  </component>
+  <component name="DrupalConfiguration">
+    <drupalPath />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TLC-test" />
+  </component>
+  <component name="JoomlaConfiguration">
+    <joomlaConfigPath />
+    <joomlaPath />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1tL3ZlZ7UdYmjBKht6c66FhDEAZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Google Drive\OpenServer\domains\tlc.loc\wp-content\themes\tlc\assets\css" />
+      <recent name="D:\Google Drive\OpenServer\domains\tlc.loc\wp-content\themes\tlc\assets\js" />
+      <recent name="D:\Google Drive\OpenServer\domains\tlc.loc\wp-content\themes\tlc\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Google Drive\OpenServer\domains\tlc.loc\wp-content\themes\tlc" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a540be7f-b82f-4181-b3a4-9f6528984c14" name="Default Changelist" comment="" />
+      <created>1622534600081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622534600081</updated>
+      <workItem from="1622534602444" duration="189000" />
+      <workItem from="1622534825938" duration="2178000" />
+      <workItem from="1622720703235" duration="20000" />
+      <workItem from="1622720757754" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>D:\Google Drive\OpenServer\domains\tlc.loc</wordpressPath>
+  </component>
+</project>
